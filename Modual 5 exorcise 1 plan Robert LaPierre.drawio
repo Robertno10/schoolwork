@@ -1,0 +1,158 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.11">
+  <diagram name="Page-1" id="yvBHmLCP02ahsSQ7tE2c">
+    <mxGraphModel dx="1600" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TOSIPlapfA9Fj8J_uWJb-2" target="TOSIPlapfA9Fj8J_uWJb-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-2" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="53.75" y="120" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TOSIPlapfA9Fj8J_uWJb-4" target="TOSIPlapfA9Fj8J_uWJb-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-40" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TOSIPlapfA9Fj8J_uWJb-39">
+          <mxGeometry x="-0.42" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TOSIPlapfA9Fj8J_uWJb-4" target="TOSIPlapfA9Fj8J_uWJb-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-42" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TOSIPlapfA9Fj8J_uWJb-41">
+          <mxGeometry x="-0.2519" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-4" value="questions avalible?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="220" width="97.5" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-5" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="57.75" y="560" width="82" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TOSIPlapfA9Fj8J_uWJb-6" target="TOSIPlapfA9Fj8J_uWJb-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-6" value="contestant picks catigory" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="300" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TOSIPlapfA9Fj8J_uWJb-9" target="TOSIPlapfA9Fj8J_uWJb-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-9" value="contestant picks avalible money panel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="520" width="95" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TOSIPlapfA9Fj8J_uWJb-10" target="TOSIPlapfA9Fj8J_uWJb-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-16" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TOSIPlapfA9Fj8J_uWJb-14">
+          <mxGeometry x="-0.05" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TOSIPlapfA9Fj8J_uWJb-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="273" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="481" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-54" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TOSIPlapfA9Fj8J_uWJb-48">
+          <mxGeometry x="-0.6524" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-10" value="are money panels avalible" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="232.5" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-17" value="hint is given" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="224" y="620" width="97" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TOSIPlapfA9Fj8J_uWJb-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="290" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="181" y="755" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-53" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TOSIPlapfA9Fj8J_uWJb-50">
+          <mxGeometry x="-0.7375" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TOSIPlapfA9Fj8J_uWJb-18" target="TOSIPlapfA9Fj8J_uWJb-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-52" value="yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TOSIPlapfA9Fj8J_uWJb-51">
+          <mxGeometry x="0.2215" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-18" value="is buzzer pressed in time limit?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="229" y="710" width="87" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.517;entryY=0.078;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TOSIPlapfA9Fj8J_uWJb-17" target="TOSIPlapfA9Fj8J_uWJb-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TOSIPlapfA9Fj8J_uWJb-27" target="TOSIPlapfA9Fj8J_uWJb-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-27" value="contestant buzzes in for answer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TOSIPlapfA9Fj8J_uWJb-28" target="TOSIPlapfA9Fj8J_uWJb-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-28" value="answor correct?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="930" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TOSIPlapfA9Fj8J_uWJb-29" target="TOSIPlapfA9Fj8J_uWJb-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-29" value="contestant loses money" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="224" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="TOSIPlapfA9Fj8J_uWJb-30" target="TOSIPlapfA9Fj8J_uWJb-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-30" value="contestant earns money" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.45;entryY=0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TOSIPlapfA9Fj8J_uWJb-28" target="TOSIPlapfA9Fj8J_uWJb-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TOSIPlapfA9Fj8J_uWJb-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="1270" />
+              <mxPoint x="690" y="1270" />
+              <mxPoint x="690" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-33" value="timer stops" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TOSIPlapfA9Fj8J_uWJb-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="284" y="1270" />
+              <mxPoint x="690" y="1270" />
+              <mxPoint x="690" y="190" />
+              <mxPoint x="100" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TOSIPlapfA9Fj8J_uWJb-34" value="timer decreases" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="226.5" y="1170" width="115" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
